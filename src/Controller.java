@@ -86,7 +86,7 @@ public class Controller implements Initializable {
         stage = new Stage();
 
         // filePath = "C:\\Users\\mahes\\Downloads\\parody.mp3";
-        filePath = ".\\res\\Ae_Zindagi_Gale_Laga_Le.mp3";
+        filePath = ".\\res\\Ishq Jaisa Kuch Fighter 320 Kbps.mp3";
 
         file = new File(filePath);
         media = new Media(file.toURI().toString());
